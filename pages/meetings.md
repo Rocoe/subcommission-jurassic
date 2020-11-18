@@ -6,7 +6,7 @@ permalink: /meetings
 ## Meetings
 
 #### 11th International Congress on the Jurassic System
-The 11th International Congress on the Jurassic System will be held in 2022 in Budapest, Hungary.
+The 11th International Congress on the Jurassic System will be held in late august to early September 2022 in Budapest, Hungary.
 
 #### Other meetings of relevance to Jurassic stratigraphy
 The prospectus for the 4th meeting of the IW–TOAE (28 and 29 October 2020) is available at <https://rst2020-lyon.sciencesconf.org/resource/page/id/19>
